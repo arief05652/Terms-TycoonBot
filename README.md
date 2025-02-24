@@ -1,69 +1,69 @@
 # Economy Tycoon Bot 🤖💰
 
-Selamat datang di **Economy Tycoon Bot**, bot Discord yang dirancang untuk memberikan pengalaman seru dalam mengelola ekonomi virtual, membeli aset, bermain game judi, dan banyak lagi! Bot ini cocok untuk server komunitas yang ingin menambahkan elemen interaktif dan kompetitif.
+Welcome to **Economy Tycoon Bot**, a Discord bot designed to provide an exciting experience in managing a virtual economy, buying assets, playing gambling games, and much more! This bot is perfect for community servers looking to add interactive and competitive elements.
 
 ---
 
-## Fitur Utama 🚀
+## Key Features 🚀
 
-Berikut adalah beberapa fitur unggulan yang tersedia di bot ini:
+Here are some of the standout features available in this bot:
 
-### 1. **Membeli dan Mengelola Aset** 🏢
-   - Beli berbagai jenis aset seperti properti, bisnis, atau kendaraan.
-   - Kelola aset Anda untuk menghasilkan pendapatan pasif.
-   - Tingkatkan aset untuk meningkatkan keuntungan.
+### 1. **Buying and Managing Assets** �
+   - Purchase various types of assets such as properties, businesses, or vehicles.
+   - Manage your assets to generate passive income.
+   - Upgrade assets to increase profits.
 
-### 2. **Permainan Judi** 🎲
-   - Mainkan permainan judi seperti dadu, slot, atau blackjack.
-   - Menangkan hadiah besar atau kehilangan segalanya – semuanya tergantung pada keberuntungan Anda!
+### 2. **Gambling Games** 🎲
+   - Play gambling games like dice, slots, or blackjack.
+   - Win big or lose it all – it all depends on your luck!
 
-### 3. **Ekonomi Dinamis** 💹
-   - Harga aset dan mata uang dapat berubah berdasarkan permintaan dan penawaran.
-   - Ikuti tren pasar untuk mendapatkan keuntungan maksimal.
+### 3. **Dynamic Economy** 💹
+   - Asset and currency prices can fluctuate based on supply and demand.
+   - Follow market trends to maximize profits.
 
-### 4. **Leaderboard dan Kompetisi** 🏆
-   - Lihat peringkat pengguna terkaya.
-   - Ikuti event khusus untuk memenangkan hadiah eksklusif.
-
----
-
-## Cara Menggunakan Bot 🛠️
-
-Berikut adalah beberapa perintah dasar yang dapat Anda gunakan:
-
-### Ekonomi dan Aset
-- `!buy <asset>`: Membeli aset tertentu.
-- `!sell <asset>`: Menjual aset yang Anda miliki.
-- `!portfolio`: Melihat daftar aset yang Anda miliki.
-
-### Permainan Judi
-- `/slots <amount>`: Bermain mesin slot.
-- `/blackjack <amount>`: Bermain blackjack.
-
-### Lainnya
-- `!balance`: Mengecek saldo Anda.
-- `!leaderboard`: Melihat peringkat pengguna terkaya.
+### 4. **Leaderboard and Competitions** 🏆
+   - View the rankings of the richest users.
+   - Participate in special events to win exclusive prizes.
 
 ---
 
-## Persyaratan dan Kebijakan 📜
+## How to Use the Bot 🛠️
 
-### Persyaratan
-- Bot ini memerlukan izin **Manage Messages**, **Read Messages**, dan **Send Messages** untuk berfungsi dengan baik.
+Here are some basic commands you can use:
 
-### Kebijakan Privasi
-Bot ini tidak menyimpan data pribadi pengguna di luar server Discord. Data seperti saldo dan aset hanya disimpan untuk keperluan fungsional bot.
+### Economy and Assets
+- `!buy <asset>`: Purchase a specific asset.
+- `!sell <asset>`: Sell an asset you own.
+- `!portfolio`: View a list of assets you own.
+
+### Gambling Games
+- `/slots <amount>`: Play the slot machine.
+- `/blackjack <amount>`: Play blackjack.
+
+### Others
+- `!balance`: Check your balance.
+- `!leaderboard`: View the rankings of the richest users.
 
 ---
 
-## Cara Menambahkan Bot ke Server Anda 🖥️
+## Requirements and Policies 📜
 
-1. Klik [tautan ini]([https://discord.com/oauth2/authorize?client_id=YOUR_BOT_ID&scope=bot&permissions=PERMISSIONS](https://discord.com/oauth2/authorize?client_id=1338303581685678131)) untuk mengundang bot ke server Anda.
-2. Pastikan Anda memiliki izin **Administrator** atau **Manage Server** di server tujuan.
-3. Setelah bot bergabung, gunakan perintah `!setup` untuk mengkonfigurasi bot di server Anda.
+### Requirements
+- This bot requires **Manage Messages**, **Read Messages**, and **Send Messages** permissions to function properly.
+
+### Privacy Policy
+This bot does not store users' personal data outside of Discord. Data such as balances and assets are only stored for the bot's functional purposes.
 
 ---
 
-## Terima Kasih! 🙏
+## How to Add the Bot to Your Server 🖥️
 
-Terima kasih telah menggunakan **Tycoon Bot**! Semoga bot ini dapat memberikan hiburan dan keseruan bagi komunitas Discord Anda.
+1. Click [this link](https://discord.com/oauth2/authorize?client_id=1338303581685678131) to invite the bot to your server.
+2. Ensure you have **Administrator** or **Manage Server** permissions in the target server.
+3. Once the bot joins, use the `!setup` command to configure the bot in your server.
+
+---
+
+## Thank You! 🙏
+
+Thank you for using **Tycoon Bot**! We hope this bot brings entertainment and excitement to your Discord community.
