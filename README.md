@@ -60,7 +60,6 @@ This bot does not store users' personal data outside of Discord. Data such as ba
 
 1. Click [this link](https://discord.com/oauth2/authorize?client_id=1338303581685678131) to invite the bot to your server.
 2. Ensure you have **Administrator** or **Manage Server** permissions in the target server.
-3. Once the bot joins, use the `!setup` command to configure the bot in your server.
 
 ---
 
