@@ -1,8 +1,6 @@
-# Privacy Policy for Economy Tycoon Bot
+# Privacy Policy for Tycoon Bot
 
-Effective Date: [Insert Date]
-
-Thank you for using **Economy Tycoon Bot**! This Privacy Policy explains how we collect, use, and protect your information when you interact with our bot on Discord. By using the bot, you agree to the practices described in this policy.
+Thank you for using **Tycoon Bot**! This Privacy Policy explains how we collect, use, and protect your information when you interact with our bot on Discord. By using the bot, you agree to the practices described in this policy.
 
 ---
 
@@ -38,7 +36,7 @@ We use the collected information for the following purposes:
 ## 3. Data Storage and Security
 
 ### 3.1 **Data Storage**
-   - All data is stored securely on [describe your storage method, e.g., a cloud database or local server].
+   - All data is stored securely on database server.
    - Data is retained only as long as necessary to provide the bot's services.
 
 ### 3.2 **Data Security**
@@ -62,8 +60,6 @@ You have the following rights regarding your data:
 - **Deletion**: Request the deletion of your data from our systems.
 - **Correction**: Request corrections to any inaccurate data.
 
-To exercise these rights, contact us at [your contact email or Discord handle].
-
 ---
 
 ## 6. Changes to This Policy
@@ -72,12 +68,4 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 ---
 
-## 7. Contact Us
-
-If you have any questions or concerns about this Privacy Policy, please contact us at:
-- **Email**: [your email address]
-- **Discord**: [your Discord handle]
-
----
-
-Thank you for trusting **Economy Tycoon Bot** with your data. We are committed to protecting your privacy and providing a safe and enjoyable experience.
+Thank you for trusting **Tycoon Bot** with your data. We are committed to protecting your privacy and providing a safe and enjoyable experience.
