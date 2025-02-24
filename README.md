@@ -1,65 +1,69 @@
-# Discord Economy Bot Verification Guide
+# Economy Tycoon Bot 🤖💰
 
-This guide outlines the steps and requirements to verify your Discord bot that provides economy and tycoon services, such as buying assets, gambling games, and more.
-
-## Table of Contents
-1. [Requirements for Verification](#requirements-for-verification)
-2. [Steps to Verify Your Bot](#steps-to-verify-your-bot)
-3. [Important Notes](#important-notes)
-4. [Support](#support)
+Selamat datang di **Economy Tycoon Bot**, bot Discord yang dirancang untuk memberikan pengalaman seru dalam mengelola ekonomi virtual, membeli aset, bermain game judi, dan banyak lagi! Bot ini cocok untuk server komunitas yang ingin menambahkan elemen interaktif dan kompetitif.
 
 ---
 
-## Requirements for Verification
+## Fitur Utama 🚀
 
-To verify your bot, Discord requires the following:
+Berikut adalah beberapa fitur unggulan yang tersedia di bot ini:
 
-1. **Bot Ownership**: You must be the owner of the bot and have access to its application on the [Discord Developer Portal](https://discord.com/developers/applications).
-2. **Server Count**: Your bot must be in at least **75 servers**. Discord uses this metric to determine if your bot is widely used.
-3. **Privacy Policy**: Your bot must have a publicly accessible Privacy Policy that explains how user data is collected, stored, and used.
-4. **Terms of Service**: Provide a Terms of Service document that outlines the rules and guidelines for using your bot.
-5. **Secure Usage**: Ensure your bot follows Discord's [Developer Terms of Service](https://discord.com/developers/docs/policy) and [Community Guidelines](https://discord.com/guidelines).
-6. **No Violations**: Your bot must not violate any of Discord's policies, including but not limited to gambling, scams, or harmful content.
+### 1. **Membeli dan Mengelola Aset** 🏢
+   - Beli berbagai jenis aset seperti properti, bisnis, atau kendaraan.
+   - Kelola aset Anda untuk menghasilkan pendapatan pasif.
+   - Tingkatkan aset untuk meningkatkan keuntungan.
 
----
+### 2. **Permainan Judi** 🎲
+   - Mainkan permainan judi seperti dadu, slot, atau blackjack.
+   - Menangkan hadiah besar atau kehilangan segalanya – semuanya tergantung pada keberuntungan Anda!
 
-## Steps to Verify Your Bot
+### 3. **Ekonomi Dinamis** 💹
+   - Harga aset dan mata uang dapat berubah berdasarkan permintaan dan penawaran.
+   - Ikuti tren pasar untuk mendapatkan keuntungan maksimal.
 
-1. **Prepare Your Bot**:
-   - Ensure your bot is functional and meets the requirements listed above.
-   - Host your bot on a reliable server to ensure 24/7 uptime.
-
-2. **Update Your Bot's Profile**:
-   - Add a clear description of your bot's features and purpose.
-   - Include links to your Privacy Policy and Terms of Service.
-
-3. **Apply for Verification**:
-   - Go to the [Discord Developer Portal](https://discord.com/developers/applications).
-   - Select your bot application.
-   - Navigate to the **Bot** tab and scroll down to the **Verification** section.
-   - Click **Apply for Verification** and fill out the form with the required details.
-
-4. **Wait for Review**:
-   - Discord's Trust & Safety team will review your application. This process can take several days to weeks.
-   - Ensure your bot remains compliant with Discord's policies during this time.
-
-5. **Respond to Feedback**:
-   - If Discord requests additional information or changes, respond promptly to avoid delays.
+### 4. **Leaderboard dan Kompetisi** 🏆
+   - Lihat peringkat pengguna terkaya.
+   - Ikuti event khusus untuk memenangkan hadiah eksklusif.
 
 ---
 
-## Important Notes
+## Cara Menggunakan Bot 🛠️
 
-- **Gambling Features**: If your bot includes gambling features, ensure they comply with Discord's guidelines and local laws. Discord may require additional documentation for such features.
-- **Data Security**: Protect user data and avoid storing sensitive information unnecessarily.
-- **Transparency**: Be transparent about how your bot works and what data it collects.
+Berikut adalah beberapa perintah dasar yang dapat Anda gunakan:
+
+### Ekonomi dan Aset
+- `!buy <asset>`: Membeli aset tertentu.
+- `!sell <asset>`: Menjual aset yang Anda miliki.
+- `!portfolio`: Melihat daftar aset yang Anda miliki.
+
+### Permainan Judi
+- `/slots <amount>`: Bermain mesin slot.
+- `/blackjack <amount>`: Bermain blackjack.
+
+### Lainnya
+- `!balance`: Mengecek saldo Anda.
+- `!leaderboard`: Melihat peringkat pengguna terkaya.
 
 ---
 
-## Support
+## Persyaratan dan Kebijakan 📜
 
-If you encounter issues during the verification process, you can reach out to Discord's support team via the [Developer Portal](https://discord.com/developers/applications) or consult the [Discord Developer Documentation](https://discord.com/developers/docs).
+### Persyaratan
+- Bot ini memerlukan izin **Manage Messages**, **Read Messages**, dan **Send Messages** untuk berfungsi dengan baik.
+
+### Kebijakan Privasi
+Bot ini tidak menyimpan data pribadi pengguna di luar server Discord. Data seperti saldo dan aset hanya disimpan untuk keperluan fungsional bot.
 
 ---
 
-Good luck with your bot verification! 🚀
+## Cara Menambahkan Bot ke Server Anda 🖥️
+
+1. Klik [tautan ini]([https://discord.com/oauth2/authorize?client_id=YOUR_BOT_ID&scope=bot&permissions=PERMISSIONS](https://discord.com/oauth2/authorize?client_id=1338303581685678131)) untuk mengundang bot ke server Anda.
+2. Pastikan Anda memiliki izin **Administrator** atau **Manage Server** di server tujuan.
+3. Setelah bot bergabung, gunakan perintah `!setup` untuk mengkonfigurasi bot di server Anda.
+
+---
+
+## Terima Kasih! 🙏
+
+Terima kasih telah menggunakan **Tycoon Bot**! Semoga bot ini dapat memberikan hiburan dan keseruan bagi komunitas Discord Anda.
