@@ -1,6 +1,6 @@
-# Economy Tycoon Bot 🤖💰
+# Tycoon Bot 🤖💰
 
-Welcome to **Economy Tycoon Bot**, a Discord bot designed to provide an exciting experience in managing a virtual economy, buying assets, playing gambling games, and much more! This bot is perfect for community servers looking to add interactive and competitive elements.
+Welcome to **Tycoon Bot**, a Discord bot designed to provide an exciting experience in managing a virtual economy, buying assets, playing gambling games, and much more! This bot is perfect for community servers looking to add interactive and competitive elements.
 
 ---
 
