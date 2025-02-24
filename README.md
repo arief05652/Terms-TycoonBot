@@ -8,7 +8,7 @@ Welcome to **Tycoon Bot**, a Discord bot designed to provide an exciting experie
 
 Here are some of the standout features available in this bot:
 
-### 1. **Buying and Managing Assets** �
+### 1. **Buying and Managing Assets** 🏠
    - Purchase various types of assets such as properties, businesses, or vehicles.
    - Manage your assets to generate passive income.
    - Upgrade assets to increase profits.
